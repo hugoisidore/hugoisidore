@@ -1,5 +1,5 @@
 - 👋 Hi, mon nom est @hugoisidore
-- 👀 Développeur 
+- 👀 Développeur Fullstack
 - 🌱 Actuellement je travaille au sein d'une société dans les télécommunications, sur une mission de projet de refonte totale de leur site web 
 - ✨ D'autres projets personnels sont toujours en cours de développement 
 - 💞️ Je recherche activement un poste de Développeur Web sur le long terme au sein d'une société engagée 
